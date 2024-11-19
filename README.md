@@ -68,3 +68,55 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Site Web du Club IA
+
+## Description
+Le site web du Club IA est une plateforme conçue pour promouvoir les activités, les projets et les événements du club, tout en offrant un espace d'interaction, de collaboration et d'apprentissage pour ses membres et partenaires. 
+
+Ce projet vise également à simplifier les inscriptions, les paiements sécurisés, et la gestion des initiatives internes telles que **DevLab Factory**, **Maths & IA Insights**, et **InnoTalk**.
+
+---
+
+## Fonctionnalités principales
+
+### Promouvoir le club IA
+- Présentation des réalisations, projets, et événements du club.
+- Visibilité accrue à l'extérieur grâce à des sections comme **Actualités** et **Galerie**.
+
+### Engager les membres
+- Accès aux ressources, formations, et opportunités de compétition.
+- Forums internes et profils personnalisables.
+
+### Simplifier les inscriptions et paiements
+- Formulaire d'inscription avec paiement sécurisé.
+- Génération automatique de reçus.
+
+### Organiser et suivre les projets
+- Suivi des projets internes comme **DevLab Factory**.
+- Espaces dédiés pour la collaboration et le suivi des initiatives.
+
+### Favoriser la collaboration
+- Encouragement à la participation externe aux projets du club.
+- Espaces pour présenter les comités, leurs missions et activités.
+
+---
+
+## Structure du projet
+
+### Arborescence principale
+
+```plaintext
+src/
+├── components/                 # Composants réutilisables
+├── pages/                      # Pages principales du site
+├── hooks/                      # Hooks personnalisés
+├── context/                    # Gestion des états globaux
+├── services/                   # Gestion des API et services
+├── styles/                     # Fichiers de style CSS/SCSS
+├── assets/                     # Ressources statiques (images, icônes)
+├── utils/                      # Fonctions utilitaires
+├── routes/                     # Gestion des routes
+├── tests/                      # Tests unitaires et d'intégration
+├── App.js                      # Composant racine
+├── index.js                    # Point d'entrée de l'application
+└── config.js                   # Variables globales de configuration
