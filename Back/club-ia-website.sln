@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "club-ia-website", "club-ia-website.csproj", "{7924DBDF-573F-4B0A-9CD1-68D9777D126D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7924DBDF-573F-4B0A-9CD1-68D9777D126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7924DBDF-573F-4B0A-9CD1-68D9777D126D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7924DBDF-573F-4B0A-9CD1-68D9777D126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7924DBDF-573F-4B0A-9CD1-68D9777D126D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4330DD23-E191-4136-8D2D-A0235758E3FC}
+	EndGlobalSection
+EndGlobal
